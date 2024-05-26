@@ -1,0 +1,192 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fa-square-envelope {
+    margin-left: 60px;
+    color: #008ffd;
+
+}
+
+.fa-clock {
+    margin-left: 20px;
+    color: #008ffd;
+
+}
+
+.fa-location-dot {
+    margin-left: 20px;
+    color: #008ffd;
+
+}
+
+.snow {
+    margin-left: 950px;
+    background-color: #008ffd;
+    padding: 20px;
+}
+
+.op {
+    font-size: 20px;
+    background-color: #015599;
+    padding: 20px;
+    color: white;
+}
+
+.op a {
+    color: white;
+    text-decoration: none;
+}
+
+.dis {
+    display: flex;
+    text-decoration: none;
+}
+
+.jk a {
+    text-decoration: none;
+}
+.jk a:hover{
+    color: red;
+}
+
+.jk {
+    margin-top: 60px;
+}
+
+
+.wom {
+    margin-left: 550px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.man {
+    margin-left: 15px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.fa-facebook-f {
+    margin-left: 500px;
+    font-size: 20px;
+    padding: 5px;
+
+
+}
+
+.fa-twitter {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.fa-linkedin {
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+.fa-instagram {
+    font-size: 20px;
+    padding: 5px;
+}
+
+.cont {
+    background-image: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.cont h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+}
+
+
+
+.container {
+    margin-top: 49px;
+    display: flex;
+    padding: 5% 10%;
+    background-color: white;
+    gap: 20px;
+}
+
+
+.team {
+    width: calc(25% - 20px);
+    height: 400px;
+    background-color: white;
+    padding: 10px;
+    position: relative;
+    border-radius: 50px 0px 50px 0px;
+
+}
+
+.content {
+    display: none;
+
+}
+
+
+.team:hover .content {
+    position: absolute;
+    background-color: #e6eaef;
+    color: black;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 50px 0px 50px 0px;
+    display: block;
+}
+
+.team {
+    background-image: url(https://i.pinimg.com/736x/ac/f0/33/acf033ff6eee4e67630348187c7fa6b0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.flex{
+    display: flex;
+}
+.bik p{
+    font-size: 20px;
+    margin-left: 90px;
+    
+}
+.li{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.li h2{
+    font-size: 33px;
+    margin-bottom: 10px;
+}
+.ul{
+    margin-left: 55px;
+    font-size: 22px;
+}
+.pp h1{
+    margin-left: 9vw;
+}
+.cc{
+   list-style-type: none;
+   margin-left: 11vw;
+   font-size: 0.9vw;
+}
+.pp{
+    margin-top: 2vw;
+}
+.gg{
+    margin-top: 0.4vw;
+}
